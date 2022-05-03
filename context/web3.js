@@ -1,0 +1,1 @@
+const context = React.createContext();
